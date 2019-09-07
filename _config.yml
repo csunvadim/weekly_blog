@@ -4,7 +4,7 @@ email:       vadim.aliev.55@my.csun.edu
 author:      Vadim S.
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "weekly_blog"
-url:         "http://pixyll.com"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
