@@ -1,13 +1,14 @@
 # Site settings
 title:       Vadim's Weekly Pixyll Theme Blog
-email:       vadim.aliev.55@my.csun.edu
-author:      Vadim S.
+email:       ""
+author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "weekly_blog"
 url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - contact.html
 
 # Google services
 google_verification:
