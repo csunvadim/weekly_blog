@@ -25,4 +25,3 @@ The fact that all computers and operating system were manufactured in one place 
 The high standard of quality, the better predicted reliability, and the best supportability is what sets Apple apart. 
 While Windows laptops are still more popular due to them having more overall options, Apple laptops have always been considered better products. 
 Apple may charge higher premium for their laptops, but in most cases it is well justified.
-
